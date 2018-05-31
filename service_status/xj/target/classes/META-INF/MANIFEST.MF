@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1527073369089
+Build-Jdk: 1.8.0_144
+Built-By: Administrator
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-ManifestVersion: 2
+Bundle-Name: sanss.bmt.service-xj
+Bundle-SymbolicName: sanss.bmt.service-xj
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: sanss.bmt.service.xj;version="1.0.0"
+Export-Service: sanss.bmt.service.xj.XjService
+Import-Package: org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.1.201501161923

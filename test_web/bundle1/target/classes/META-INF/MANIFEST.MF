@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1527065270733
+Build-Jdk: 1.8.0_144
+Built-By: Administrator
+Bundle-Activator: com.sanss.testweb.bundle.MyActivator
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-ManifestVersion: 2
+Bundle-Name: com.sanss.testweb.bundle1
+Bundle-SymbolicName: com.sanss.testweb.bundle1
+Bundle-Version: 1.0.1
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.sanss.testweb.bundle;version="1.0.1";uses:="org.osgi
+ .framework",com.sanss.testweb.rest;version="1.0.1";uses:="javax.ws.rs,j
+ avax.ws.rs.core"
+Import-Package: com.fasterxml.jackson.jaxrs.json;version="[2.9,3)",javax
+ .ws.rs;version="[2.0,3)",javax.ws.rs.core;version="[2.0,3)",org.apache.
+ cxf.rs.security.cors;version="[3.1,4)",org.osgi.framework;version="[1.8
+ ,2)",org.osgi.service.blueprint;version="[1.0.0,2.0.0)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.1.201501161923

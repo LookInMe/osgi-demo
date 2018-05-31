@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1527073373536
+Build-Jdk: 1.8.0_144
+Built-By: Administrator
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-ManifestVersion: 2
+Bundle-Name: web
+Bundle-SymbolicName: web
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Service: org.ops4j.pax.web.extender.whiteboard.ResourceMapping,or
+ g.ops4j.pax.web.extender.whiteboard.WelcomeFileMapping
+Import-Package: org.ops4j.pax.web.extender.whiteboard,org.ops4j.pax.web.
+ extender.whiteboard.runtime,org.osgi.service.blueprint;version="[1.0.0,
+ 2.0.0)"
+Tool: Bnd-3.2.0.201605172007

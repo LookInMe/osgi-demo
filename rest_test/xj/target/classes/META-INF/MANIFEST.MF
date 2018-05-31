@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1527476851008
+Build-Jdk: 1.8.0_144
+Built-By: Administrator
+Bundle-Blueprint: OSGI-INF/blueprint/blueprint.xml
+Bundle-ManifestVersion: 2
+Bundle-Name: sanss.bmt.test.rest-xj
+Bundle-SymbolicName: sanss.bmt.test.rest-xj
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: sanss.bmt.test.rest.xj;version="1.0.0";uses:="javax.ws.r
+ s,javax.ws.rs.core"
+Import-Package: com.fasterxml.jackson.jaxrs.json;version="[2.9,3)",javax
+ .ws.rs;version="[2.0,3)",javax.ws.rs.core;version="[2.0,3)",org.apache.
+ cxf.rs.security.cors;version="[3.1,4)",org.osgi.service.blueprint;versi
+ on="[1.0.0,2.0.0)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.1.201501161923

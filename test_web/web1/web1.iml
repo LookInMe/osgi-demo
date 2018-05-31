@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/src/main/java" />
+          <root url="file://$MODULE_DIR$/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="OsmorcControlled" manifestLocation="" jarfileLocation="web1-1.0.1.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="web1" bundleVersion="1.0.1" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties>
+          <property key="Import-Package" value="*" />
+          <property key="Bundle-Name" value="web1" />
+          <property key="Include-Resource" value="index.html=$MODULE_DIR$/src/main/resources/index.html,inline.04b81ebe829da844a791.bundle.js=$MODULE_DIR$/src/main/resources/inline.04b81ebe829da844a791.bundle.js,jquery-1.7.1.min.js=$MODULE_DIR$/src/main/resources/jquery-1.7.1.min.js,main.86fcef33977c1cda5aed.bundle.js=$MODULE_DIR$/src/main/resources/main.86fcef33977c1cda5aed.bundle.js,OSGI-INF/blueprint/blueprint.xml=$MODULE_DIR$/src/main/resources/OSGI-INF/blueprint/blueprint.xml,polyfills.c9b879328f3396b2bbe8.bundle.js=$MODULE_DIR$/src/main/resources/polyfills.c9b879328f3396b2bbe8.bundle.js,TestLog.js=$MODULE_DIR$/src/main/resources/TestLog.js,vendor.4f0068ab7fe9ca71e2b1.bundle.js=$MODULE_DIR$/src/main/resources/vendor.4f0068ab7fe9ca71e2b1.bundle.js" />
+        </additionalProperties>
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.camel:camel-blueprint:2.16.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.camel:camel-core:2.16.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:slf4j-api:1.6.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.camel:camel-core-xml:2.16.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.camel:camel-core-osgi:2.16.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sun.xml.bind:jaxb-core:2.2.11" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.11" level="project" />
+  </component>
+</module>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flow" />
+        <module name="listen" />
+        <module name="web" />
+        <module name="xj" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flow" target="1.7" />
+      <module name="listen" target="1.7" />
+      <module name="rest_test" target="1.7" />
+      <module name="web" target="1.8" />
+      <module name="xj" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

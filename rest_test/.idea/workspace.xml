@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c886e3-fca7-4442-bfe7-51097f3b14e7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/flow/target/" />
+    <ignored path="$PROJECT_DIR$/xj/target/" />
+    <ignored path="$PROJECT_DIR$/listen/target/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blueprint.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flow/src/main/resources/OSGI-INF/blueprint/blueprint.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XjServiceRest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xj/src/main/java/sanss/bmt/test/rest/xj/XjServiceRest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlowServiceRest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flow/src/main/java/sanss/bmt/test/rest/flow/FlowServiceRest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flow/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="45" column="15" selection-start-line="18" selection-start-column="2" selection-end-line="45" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rest_test-1.0.0.pom" pinned="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/sanss/bmt/test/rest/rest_test/1.0.0/rest_test-1.0.0.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2755">
+              <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flow/src/main/test/sanss.bmt.test.rest/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyActivator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/MyActivator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="69" column="49" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/OSGI-INF/blueprint/blueprint.xml" />
+        <option value="$PROJECT_DIR$/xj/src/main/resources/OSGI-INF/blueprint/blueprint.xml" />
+        <option value="$PROJECT_DIR$/listen/src/main/resources/OSGI-INF/blueprint/blueprint.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/index.jsp" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/html/test.html" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/login.html" />
+        <option value="$PROJECT_DIR$/xj/pom.xml" />
+        <option value="$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/MyActivator.java" />
+        <option value="$PROJECT_DIR$/listen/pom.xml" />
+        <option value="$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/ServiceStatuRest.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/OSGI-INF/blueprint/blueprint.xml" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/TestLog.js" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/test.html" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/test.js" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/flow/src/main/test/sanss.bmt.test.rest/Test.java" />
+        <option value="$PROJECT_DIR$/xj/src/main/java/sanss/bmt/test/rest/xj/XjServiceRest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/flow/src/main/java/sanss/bmt/test/rest/flow/FlowServiceRest.java" />
+        <option value="$PROJECT_DIR$/flow/pom.xml" />
+        <option value="$PROJECT_DIR$/flow/src/main/resources/OSGI-INF/blueprint/blueprint.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/work/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\soft\work\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rest_test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rest_test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=$M2_HOME" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="85" />
+    <option name="y" value="-8" />
+    <option name="width" value="1843" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="flow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="flow" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="listen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="listen" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="xj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_test" type="462c0819:PsiDirectoryNode" />
+              <item name="xj" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\web\src\main\resources" />
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\web\src\main\resources\html" />
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\flow\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\web\src\main\resources" />
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\web\src\main" />
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\listen\src\main" />
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\listen\src\main\java\sanss\bmt\test\rest\listen" />
+      <recent name="E:\ideaspace\demo\hellodemo\rest_test\xj\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sanss.bmt.test.rest.Test" />
+      <module name="flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanss.bmt.test.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c886e3-fca7-4442-bfe7-51097f3b14e7" name="Default" comment="" />
+      <created>1527128935465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527128935465</updated>
+      <workItem from="1527128940849" duration="17901000" />
+      <workItem from="1527164478012" duration="1464000" />
+      <workItem from="1527209698724" duration="5510000" />
+      <workItem from="1527226273837" duration="3946000" />
+      <workItem from="1527234206866" duration="279000" />
+      <workItem from="1527235114419" duration="1282000" />
+      <workItem from="1527471653352" duration="1782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="85" y="-8" width="1843" height="1096" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50252104" side_tool="true" weight="0.24479167" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.1742297" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497479" weight="0.3" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17703082" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flow/src/main/test/sanss.bmt.test.rest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/MyActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3078">
+          <caret line="162" column="17" lean-forward="true" selection-start-line="156" selection-start-column="4" selection-end-line="162" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/TestLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/ServiceStatuRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/java/sanss/bmt/test/rest/flow/FlowServiceRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/MyActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="29" selection-start-line="26" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/test/sanss.bmt.test.rest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/TestLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/ServiceStatuRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/java/sanss/bmt/test/rest/flow/FlowServiceRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/MyActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="38" column="29" selection-start-line="26" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/test/sanss.bmt.test.rest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/flow.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/listen/src/main/resources/OSGI-INF/blueprint/blueprint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj/src/main/resources/OSGI-INF/blueprint/blueprint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.5/jackson-databind-2.9.5.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17829">
+          <caret line="116" column="13" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/OSGI-INF/blueprint/blueprint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/ServiceStatuRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/TestLog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/felix/maven-bundle-plugin/2.5.4/maven-bundle-plugin-2.5.4.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="29" selection-start-line="26" selection-start-column="12" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/sanss.bmt.test.rest:xj:1.0.0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>sanss.bmt.test.rest:xj:1.0.0</OriginalElement>
+          <nodes>
+            <node x="0.0" y="676.6388073133759">sanss.bmt.test.rest:xj:1.0.0</node>
+            <node x="192.0" y="929.8888073133759">org.osgi:org.osgi.core:jar:6.0.0</node>
+            <node x="576.0" y="70.0">log4j:log4j:jar:1.2.17</node>
+            <node x="192.0" y="132.5">org.slf4j:slf4j-log4j12:jar:1.7.10</node>
+            <node x="560.0" y="140.0">org.slf4j:slf4j-log4j12:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="128.0" y="999.8888073133759">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9</node>
+            <node x="832.0" y="958.0960117468742">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.api:jar:1.0.0</node>
+            <node x="472.0" y="1025.6691810344828">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0</node>
+            <node x="1192.0" y="996.3460117468742">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries:org.apache.aries.util:jar:1.0.0</node>
+            <node x="840.0" y="1079.0960117468742">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.quiesce:org.apache.aries.quiesce.api:jar:1.0.0</node>
+            <node x="848.0" y="1009.0960117468742">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.proxy:org.apache.aries.proxy.api:jar:1.0.0</node>
+            <node x="512.0" y="691.8460117468742">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9</node>
+            <node x="1768.0" y="548.0245831754456">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9</node>
+            <node x="1944.0" y="513.0245831754456">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
+            <node x="2192.0" y="513.0245831754456">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="1956.0" y="583.0245831754456">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.apache.ws.xmlschema:xmlschema-core:jar:2.2.1</node>
+            <node x="892.0" y="629.7348190602501">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/javax.ws.rs:javax.ws.rs-api:jar:2.0.1</node>
+            <node x="872.0" y="726.6098190602501">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="1480.0" y="701.1098190602501">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-rt-transports-http:jar:3.1.9</node>
+            <node x="160.0" y="509.6388073133759">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9</node>
+            <node x="548.0" y="611.7745831754456">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/xml-resolver:xml-resolver:jar:1.2</node>
+            <node x="1788.0" y="365.3692094543387">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="872.0" y="432.5383904888215">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9</node>
+            <node x="1524.0" y="406.3888073133759">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9</node>
+            <node x="1776.0" y="450.3995831754456">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9/wsdl4j:wsdl4j:jar:1.6.3</node>
+            <node x="1184.0" y="407.0383904888215">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9</node>
+            <node x="1492.0" y="560.7745831754456">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-xml:jar:3.1.9</node>
+            <node x="508.0" y="428.9942094543387">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.9</node>
+            <node x="540.0" y="508.5245831754456">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9</node>
+            <node x="888.0" y="500.7745831754456">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9</node>
+            <node x="1252.0" y="504.125">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9/org.apache.neethi:neethi:jar:3.0.3</node>
+            <node x="1500.0" y="1104.5960117468742">org.apache.cxf:cxf-rt-management:jar:3.1.9</node>
+            <node x="152.0" y="744.6098190602501">org.apache.cxf:cxf-rt-rs-security-cors:jar:3.1.9</node>
+            <node x="888.0" y="785.1098190602501">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
+            <node x="1200.0" y="777.6098190602501">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="1228.0" y="858.6388073133759">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
+            <node x="136.0" y="859.8888073133759">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5</node>
+            <node x="524.0" y="915.8460117468742">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.5</node>
+            <node x="472.0" y="832.8460117468742">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5</node>
+            <node x="876.0" y="873.1098190602501">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5</node>
+            <node x="168.0" y="615.3888073133759">com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5</node>
+            <node x="224.0" y="0.0">junit:junit:jar:4.12</node>
+            <node x="544.0" y="0.0">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="184.0" y="265.3888073133759">org.apache.camel:camel-blueprint:jar:2.16.2</node>
+            <node x="912.0" y="285.3692094543387">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2</node>
+            <node x="1240.0" y="303.1192094543387">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2/org.slf4j:slf4j-api:jar:1.6.6</node>
+            <node x="540.0" y="273.5">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-xml:jar:2.16.2</node>
+            <node x="536.0" y="203.5">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-osgi:jar:2.16.2</node>
+            <node x="1532.0" y="258.6192094543387">org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11</node>
+            <node x="1532.0" y="328.6192094543387">org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="60.0" y="10.0" />
+              <point x="1688.0" y="431.3888073133759" />
+              <point x="-48.0" y="-13.75" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2">
+              <point x="76.0" y="6.0" />
+              <point x="392.0" y="286.3888073133759" />
+              <point x="472.0" y="314.0" />
+              <point x="752.0" y="314.0" />
+              <point x="832.0" y="310.3692094543387" />
+              <point x="-56.0" y="10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9/wsdl4j:wsdl4j:jar:1.6.3">
+              <point x="80.0" y="-10.0" />
+              <point x="1104.0" y="505.7745831754456" />
+              <point x="1184.0" y="489.7638073133759" />
+              <point x="1688.0" y="489.7638073133759" />
+              <point x="-40.0" y="7.5" />
+            </edge>
+            <edge source="junit:junit:jar:4.12" target="junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="36.0" y="-0.0" />
+              <point x="-68.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9">
+              <point x="104.0" y="-0.0" />
+              <point x="752.0" y="443.9942094543387" />
+              <point x="832.0" y="447.5383904888215" />
+              <point x="-96.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9">
+              <point x="100.0" y="-8.571428571428555" />
+              <point x="392.0" y="516.0673787419473" />
+              <point x="472.0" y="418.4942094543387" />
+              <point x="752.0" y="418.4942094543387" />
+              <point x="832.0" y="437.5383904888215" />
+              <point x="-96.0" y="-10.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-xml:jar:2.16.2">
+              <point x="76.0" y="-0.0" />
+              <point x="392.0" y="280.3888073133759" />
+              <point x="472.0" y="288.5" />
+              <point x="-72.0" y="-0.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.apache.camel:camel-blueprint:jar:2.16.2">
+              <point x="24.0" y="-6.923076923076906" />
+              <point x="128.0" y="280.3888073133759" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9">
+              <point x="96.0" y="-0.0" />
+              <point x="1400.0" y="447.5383904888215" />
+              <point x="1480.0" y="431.3888073133759" />
+              <point x="-60.0" y="10.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9">
+              <point x="24.0" y="-4.615384615384642" />
+              <point x="128.0" y="524.6388073133759" />
+              <point x="-100.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0">
+              <point x="80.0" y="-7.5" />
+              <point x="-92.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="100.0" y="8.571428571428555" />
+              <point x="392.0" y="533.2102358848044" />
+              <point x="472.0" y="601.2745831754456" />
+              <point x="1688.0" y="601.2745831754456" />
+              <point x="-48.0" y="3.75" />
+            </edge>
+            <edge source="org.slf4j:slf4j-log4j12:jar:1.7.10" target="log4j:log4j:jar:1.2.17">
+              <point x="68.0" y="-7.5" />
+              <point x="392.0" y="140.0" />
+              <point x="472.0" y="92.5" />
+              <point x="-36.0" y="7.5" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9">
+              <point x="108.0" y="3.75" />
+              <point x="1480.0" y="421.3888073133759" />
+              <point x="-60.0" y="-0.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.slf4j:slf4j-log4j12:jar:1.7.10">
+              <point x="24.0" y="-9.230769230769283" />
+              <point x="128.0" y="147.5" />
+              <point x="-68.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/javax.ws.rs:javax.ws.rs-api:jar:2.0.1">
+              <point x="100.0" y="-11.25" />
+              <point x="752.0" y="695.5960117468742" />
+              <point x="832.0" y="644.7348190602501" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.5" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5">
+              <point x="88.0" y="7.5" />
+              <point x="1104.0" y="938.3460117468742" />
+              <point x="1184.0" y="883.6388073133759" />
+              <point x="-64.0" y="10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1">
+              <point x="48.0" y="-7.5" />
+              <point x="-84.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="96.0" y="10.0" />
+              <point x="1104.0" y="457.5383904888215" />
+              <point x="1184.0" y="476.2638073133759" />
+              <point x="1688.0" y="476.2638073133759" />
+              <point x="-48.0" y="-8.75" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.api:jar:1.0.0">
+              <point x="132.0" y="-7.5" />
+              <point x="472.0" y="965.5960117468742" />
+              <point x="-136.0" y="-7.5" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5">
+              <point x="24.0" y="4.615384615384642" />
+              <point x="128.0" y="814.9191810344828" />
+              <point x="752.0" y="814.9191810344828" />
+              <point x="832.0" y="790.1098190602501" />
+              <point x="-80.0" y="-10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/org.codehaus.woodstox:stax2-api:jar:3.1.4">
+              <point x="84.0" y="-0.0" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="100.0" y="-3.75" />
+              <point x="752.0" y="703.0960117468742" />
+              <point x="832.0" y="690.6098190602501" />
+              <point x="1688.0" y="690.6098190602501" />
+              <point x="-48.0" y="6.25" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5">
+              <point x="24.0" y="6.923076923076906" />
+              <point x="-124.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.api:jar:1.0.0">
+              <point x="140.0" y="-11.25" />
+              <point x="-136.0" y="7.5" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.proxy:org.apache.aries.proxy.api:jar:1.0.0">
+              <point x="140.0" y="3.75" />
+              <point x="832.0" y="1024.0960117468742" />
+              <point x="-120.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2/org.slf4j:slf4j-api:jar:1.6.6">
+              <point x="56.0" y="10.0" />
+              <point x="1104.0" y="310.3692094543387" />
+              <point x="1184.0" y="318.1192094543387" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/xml-resolver:xml-resolver:jar:1.2">
+              <point x="100.0" y="12.85714285714289" />
+              <point x="392.0" y="537.4959501705188" />
+              <point x="472.0" y="626.7745831754456" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9">
+              <point x="72.0" y="-10.0" />
+              <point x="752.0" y="513.5245831754456" />
+              <point x="832.0" y="457.5383904888215" />
+              <point x="-96.0" y="10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-management:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="84.0" y="-0.0" />
+              <point x="1688.0" y="1119.5960117468742" />
+              <point x="-48.0" y="13.75" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5">
+              <point x="80.0" y="7.5" />
+              <point x="1104.0" y="807.6098190602501" />
+              <point x="1184.0" y="863.6388073133759" />
+              <point x="-64.0" y="-10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9/wsdl4j:wsdl4j:jar:1.6.3">
+              <point x="60.0" y="-0.0" />
+              <point x="1688.0" y="421.3888073133759" />
+              <point x="-40.0" y="-7.5" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries:org.apache.aries.util:jar:1.0.0">
+              <point x="140.0" y="-3.75" />
+              <point x="832.0" y="998.5960117468742" />
+              <point x="1104.0" y="998.5960117468742" />
+              <point x="-100.0" y="-7.5" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-osgi:jar:2.16.2">
+              <point x="76.0" y="-6.0" />
+              <point x="392.0" y="274.3888073133759" />
+              <point x="472.0" y="218.5" />
+              <point x="-76.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9">
+              <point x="100.0" y="-0.0" />
+              <point x="-72.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-xml:jar:3.1.9">
+              <point x="100.0" y="4.285714285714334" />
+              <point x="392.0" y="528.9245215990902" />
+              <point x="472.0" y="575.7745831754456" />
+              <point x="-92.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-xml:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2">
+              <point x="72.0" y="-0.0" />
+              <point x="752.0" y="288.5" />
+              <point x="832.0" y="300.3692094543387" />
+              <point x="-56.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-xml:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="92.0" y="-0.0" />
+              <point x="-48.0" y="1.25" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="log4j:log4j:jar:1.2.17">
+              <point x="24.0" y="-11.538461538461547" />
+              <point x="128.0" y="77.5" />
+              <point x="-36.0" y="-7.5" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-osgi:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="76.0" y="-10.0" />
+              <point x="1400.0" y="208.5" />
+              <point x="1480.0" y="267.6192094543387" />
+              <point x="-52.0" y="-6.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-rs-security-cors:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="108.0" y="7.5" />
+              <point x="1688.0" y="767.1098190602501" />
+              <point x="-48.0" y="11.25" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5">
+              <point x="140.0" y="-0.0" />
+              <point x="832.0" y="862.6098190602501" />
+              <point x="1104.0" y="862.6098190602501" />
+              <point x="1184.0" y="873.6388073133759" />
+              <point x="-64.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.ow2.asm:asm:jar:5.0.4">
+              <point x="100.0" y="-12.857142857142833" />
+              <point x="392.0" y="511.78166445623305" />
+              <point x="472.0" y="372.6192094543387" />
+              <point x="-28.0" y="-7.5" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11">
+              <point x="108.0" y="-3.75" />
+              <point x="1480.0" y="355.6192094543387" />
+              <point x="-52.0" y="12.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5" target="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5">
+              <point x="124.0" y="-7.5" />
+              <point x="-140.0" y="-0.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9">
+              <point x="24.0" y="11.538461538461547" />
+              <point x="-132.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5">
+              <point x="140.0" y="-10.0" />
+              <point x="832.0" y="800.1098190602501" />
+              <point x="-80.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="80.0" y="10.0" />
+              <point x="1104.0" y="525.7745831754456" />
+              <point x="1184.0" y="544.625" />
+              <point x="1688.0" y="544.625" />
+              <point x="-48.0" y="-3.75" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5">
+              <point x="24.0" y="-2.307692307692264" />
+              <point x="128.0" y="630.3888073133759" />
+              <point x="-92.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11">
+              <point x="76.0" y="12.0" />
+              <point x="392.0" y="292.3888073133759" />
+              <point x="472.0" y="357.3692094543387" />
+              <point x="1400.0" y="357.3692094543387" />
+              <point x="1480.0" y="349.6192094543387" />
+              <point x="-52.0" y="6.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11">
+              <point x="56.0" y="-0.0" />
+              <point x="1104.0" y="300.3692094543387" />
+              <point x="1184.0" y="292.6192094543387" />
+              <point x="1400.0" y="292.6192094543387" />
+              <point x="1480.0" y="337.6192094543387" />
+              <point x="-52.0" y="-6.0" />
+            </edge>
+            <edge source="org.slf4j:slf4j-log4j12:jar:1.7.10" target="org.slf4j:slf4j-log4j12:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10">
+              <point x="68.0" y="7.5" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-xml:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11">
+              <point x="72.0" y="10.0" />
+              <point x="752.0" y="298.5" />
+              <point x="832.0" y="343.6192094543387" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0">
+              <point x="132.0" y="7.5" />
+              <point x="-140.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-osgi:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11">
+              <point x="76.0" y="-0.0" />
+              <point x="1400.0" y="218.5" />
+              <point x="1480.0" y="331.6192094543387" />
+              <point x="-52.0" y="-12.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9">
+              <point x="104.0" y="-10.0" />
+              <point x="752.0" y="433.9942094543387" />
+              <point x="832.0" y="396.5383904888215" />
+              <point x="1400.0" y="396.5383904888215" />
+              <point x="1480.0" y="411.3888073133759" />
+              <point x="-60.0" y="-10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-rt-transports-http:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="104.0" y="-0.0" />
+              <point x="-48.0" y="8.75" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.ow2.asm:asm:jar:5.0.4">
+              <point x="60.0" y="-10.0" />
+              <point x="1688.0" y="411.3888073133759" />
+              <point x="1768.0" y="387.8692094543387" />
+              <point x="-28.0" y="7.5" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.proxy:org.apache.aries.proxy.api:jar:1.0.0" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries:org.apache.aries.util:jar:1.0.0">
+              <point x="120.0" y="-0.0" />
+              <point x="-100.0" y="7.5" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9">
+              <point x="96.0" y="-10.0" />
+              <point x="1104.0" y="437.5383904888215" />
+              <point x="-108.0" y="-0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5" target="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5">
+              <point x="140.0" y="10.0" />
+              <point x="832.0" y="888.1098190602501" />
+              <point x="-92.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.apache.ws.xmlschema:xmlschema-core:jar:2.2.1">
+              <point x="48.0" y="7.5" />
+              <point x="-72.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="108.0" y="11.25" />
+              <point x="1480.0" y="473.5" />
+              <point x="1688.0" y="473.5" />
+              <point x="-48.0" y="-11.25" />
+            </edge>
+            <edge source="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0" target="org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.quiesce:org.apache.aries.quiesce.api:jar:1.0.0">
+              <point x="140.0" y="11.25" />
+              <point x="-128.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.9">
+              <point x="100.0" y="-4.285714285714334" />
+              <point x="392.0" y="520.3530930276615" />
+              <point x="472.0" y="443.9942094543387" />
+              <point x="-104.0" y="-0.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="junit:junit:jar:4.12">
+              <point x="24.0" y="-13.846153846153811" />
+              <point x="128.0" y="15.0" />
+              <point x="-36.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="72.0" y="10.0" />
+              <point x="752.0" y="533.5245831754456" />
+              <point x="832.0" y="550.2745831754456" />
+              <point x="1688.0" y="550.2745831754456" />
+              <point x="-48.0" y="-1.25" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="108.0" y="-11.25" />
+              <point x="1480.0" y="285.6192094543387" />
+              <point x="-52.0" y="12.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.5" target="com.fasterxml.jackson.core:jackson-databind:jar:2.9.5">
+              <point x="88.0" y="-7.5" />
+              <point x="752.0" y="923.3460117468742" />
+              <point x="832.0" y="810.1098190602501" />
+              <point x="-80.0" y="10.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9">
+              <point x="104.0" y="10.0" />
+              <point x="752.0" y="453.9942094543387" />
+              <point x="832.0" y="478.7638073133759" />
+              <point x="1688.0" y="478.7638073133759" />
+              <point x="-48.0" y="-6.25" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-rs-security-cors:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9">
+              <point x="108.0" y="-7.5" />
+              <point x="392.0" y="752.1098190602501" />
+              <point x="472.0" y="714.3460117468742" />
+              <point x="-100.0" y="7.5" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/javax.annotation:javax.annotation-api:jar:1.2">
+              <point x="100.0" y="11.25" />
+              <point x="752.0" y="718.0960117468742" />
+              <point x="832.0" y="741.6098190602501" />
+              <point x="-96.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-osgi:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2">
+              <point x="76.0" y="10.0" />
+              <point x="752.0" y="228.5" />
+              <point x="832.0" y="290.3692094543387" />
+              <point x="-56.0" y="-10.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.apache.cxf:cxf-rt-rs-security-cors:jar:3.1.9">
+              <point x="24.0" y="2.307692307692264" />
+              <point x="128.0" y="759.6098190602501" />
+              <point x="-108.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9">
+              <point x="72.0" y="-0.0" />
+              <point x="752.0" y="523.5245831754456" />
+              <point x="832.0" y="515.7745831754456" />
+              <point x="-80.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9/org.apache.neethi:neethi:jar:3.0.3">
+              <point x="80.0" y="-0.0" />
+              <point x="1104.0" y="515.7745831754456" />
+              <point x="1184.0" y="519.125" />
+              <point x="-40.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-xml:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="72.0" y="-10.0" />
+              <point x="752.0" y="278.5" />
+              <point x="832.0" y="270.3692094543387" />
+              <point x="1400.0" y="270.3692094543387" />
+              <point x="1480.0" y="273.6192094543387" />
+              <point x="-52.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-rt-transports-http:jar:3.1.9">
+              <point x="100.0" y="3.75" />
+              <point x="752.0" y="710.5960117468742" />
+              <point x="832.0" y="716.1098190602501" />
+              <point x="-104.0" y="-0.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.apache.cxf:cxf-rt-management:jar:3.1.9">
+              <point x="24.0" y="13.846153846153811" />
+              <point x="128.0" y="1119.5960117468742" />
+              <point x="-84.0" y="-0.0" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9">
+              <point x="24.0" y="-0.0" />
+              <point x="128.0" y="699.3460117468742" />
+              <point x="-100.0" y="-7.5" />
+            </edge>
+            <edge source="sanss.bmt.test.rest:xj:1.0.0" target="org.osgi:org.osgi.core:jar:6.0.0">
+              <point x="24.0" y="9.230769230769283" />
+              <point x="128.0" y="944.8888073133759" />
+              <point x="-68.0" y="-0.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="76.0" y="-12.0" />
+              <point x="392.0" y="268.3888073133759" />
+              <point x="472.0" y="193.0" />
+              <point x="1400.0" y="193.0" />
+              <point x="1480.0" y="261.6192094543387" />
+              <point x="-52.0" y="-12.0" />
+            </edge>
+            <edge source="org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2" target="org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="56.0" y="-10.0" />
+              <point x="1104.0" y="290.3692094543387" />
+              <point x="1184.0" y="281.1192094543387" />
+              <point x="1400.0" y="281.1192094543387" />
+              <point x="-52.0" y="6.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5" target="com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.5">
+              <point x="124.0" y="7.5" />
+              <point x="472.0" y="930.8460117468742" />
+              <point x="-88.0" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8265975820379965" x="777.0" y="626.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="32" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listen/src/main/java/sanss/bmt/test/rest/listen/MyActivator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="69" column="49" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/test/sanss.bmt.test.rest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.9/cxf-rt-frontend-jaxrs-3.1.9.jar!/schemas/blueprint/jaxrs.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/sanss/bmt/test/rest/rest_test/1.0.0/rest_test-1.0.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxrs/3.1.9/cxf-rt-frontend-jaxrs-3.1.9.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="95" column="24" selection-start-line="95" selection-start-column="24" selection-end-line="95" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/sanss.bmt.test.rest:flow:1.0.0">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>sanss.bmt.test.rest:flow:1.0.0</OriginalElement>
+          <nodes>
+            <node x="" y="">sanss.bmt.test.rest:flow:1.0.0</node>
+            <node x="" y="">org.osgi:org.osgi.core:jar:6.0.0</node>
+            <node x="" y="">log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.10</node>
+            <node x="" y="">org.slf4j:slf4j-log4j12:jar:1.7.10/org.slf4j:slf4j-api:jar:1.7.10</node>
+            <node x="" y="">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9</node>
+            <node x="" y="">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.api:jar:1.0.0</node>
+            <node x="" y="">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0</node>
+            <node x="" y="">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries:org.apache.aries.util:jar:1.0.0</node>
+            <node x="" y="">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.quiesce:org.apache.aries.quiesce.api:jar:1.0.0</node>
+            <node x="" y="">org.apache.aries.blueprint:org.apache.aries.blueprint.cm:jar:1.0.9/org.apache.aries.blueprint:org.apache.aries.blueprint.core:jar:1.7.0/org.apache.aries.proxy:org.apache.aries.proxy.api:jar:1.0.0</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-core:jar:3.1.9/org.apache.ws.xmlschema:xmlschema-core:jar:2.2.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/javax.ws.rs:javax.ws.rs-api:jar:2.0.1</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/javax.annotation:javax.annotation-api:jar:1.2</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxrs:jar:3.1.9/org.apache.cxf:cxf-rt-transports-http:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/xml-resolver:xml-resolver:jar:1.2</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-wsdl:jar:3.1.9/wsdl4j:wsdl4j:jar:1.6.3</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.9/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-bindings-xml:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.9/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.9/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.9/org.apache.neethi:neethi:jar:3.0.3</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-management:jar:3.1.9</node>
+            <node x="" y="">org.apache.cxf:cxf-rt-rs-security-cors:jar:3.1.9</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-databind:jar:2.9.5/com.fasterxml.jackson.core:jackson-core:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.9.5/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.5/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5</node>
+            <node x="" y="">com.fasterxml.jackson.core:jackson-annotations:jar:2.9.5</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core:jar:2.16.2/org.slf4j:slf4j-api:jar:1.6.6</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-xml:jar:2.16.2</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2/org.apache.camel:camel-core-osgi:jar:2.16.2</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-core:jar:2.2.11</node>
+            <node x="" y="">org.apache.camel:camel-blueprint:jar:2.16.2/com.sun.xml.bind:jaxb-impl:jar:2.2.11</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.2202826022961437" x="2059.0" y="495.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xj/src/main/java/sanss/bmt/test/rest/xj/XjServiceRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/target/classes/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/java/sanss/bmt/test/rest/flow/FlowServiceRest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="15" selection-start-line="18" selection-start-column="2" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flow/src/main/resources/OSGI-INF/blueprint/blueprint.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
