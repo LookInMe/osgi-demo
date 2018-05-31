@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Test">
+
+    <select id="selectTests" resultType="com.sanss.db.test.mybatis.Test">
+        select * from TEST_TEST
+    </select>
+
+    <insert id="insertTest" parameterType="com.sanss.db.test.mybatis.Test">
+        insert into TEST_TEST (
+        id,
+        ds
+        )
+        values (
+        #{id}, #{ds}
+        )
+    </insert>
+
+</mapper>
